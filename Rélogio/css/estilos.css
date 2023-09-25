@@ -1,0 +1,37 @@
+body{
+    background: url('/images/1331368\ \(1\).jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.central{
+    width: 600px;
+    background: rgba(255, 255, 255, 0.321);
+    border-radius: 15px;
+    padding: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.central div{
+    background-color: black;
+    color: white;
+    height: 150px;
+    width: 100px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 50PX;
+}
+.central .pontos{
+    font-size: 80px;
+
+
+}
