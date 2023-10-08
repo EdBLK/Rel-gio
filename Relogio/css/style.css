@@ -6,7 +6,7 @@
 }
 
 body{
-    background: url(/img/1169197.png);
+    background: url(/img/ego.png);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
@@ -16,7 +16,7 @@ body{
 }
 
 .inicio{
-    background: rgba(255, 255, 255, 0.068);
+    background: rgba(0, 0, 0, 0.452);
     border-radius: 15px;
     width: 600px;
     padding: 10px;
@@ -27,8 +27,8 @@ body{
 }
 
 .inicio div{
-    background-color: rgba(255, 255, 255, 0);
-    color: cyan;
+    background-color: rgba(0, 0, 0, 0);
+    color: blue;
     height: 150px;
     width: 100px;
     border-radius: 10px;
